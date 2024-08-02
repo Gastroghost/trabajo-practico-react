@@ -1,5 +1,10 @@
-const header = ()=> {
+const Header = ()=> {
+return (
+<header>
+<h1>hola desde header</h1>
+</header>
+       );
 
 }
 
-export default <header></header>
+export default Header
